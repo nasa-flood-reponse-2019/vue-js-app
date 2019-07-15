@@ -1,0 +1,25 @@
+{
+  "name": "nasa-flood-response",
+  "version": "0.0.1",
+  "description": "First npm JSON.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasa-flood-response-2019/vue-js-app.git"
+  },
+  "keywords": [
+    "moves",
+    "flood response",
+    "NASA",
+    "SEES"
+  ],
+  "author": "Caroline Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasa-flood-response-2019/vue-js-app/issues"
+  },
+  "homepage": "https://github.com/nasa-flood-response-2019/vue-js-app#readme"
+}
