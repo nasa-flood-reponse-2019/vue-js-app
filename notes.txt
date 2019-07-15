@@ -1,7 +1,0 @@
-Notes 
-
-ArcGIS server for JS API (dojo framework)
-Vue js
-Leaflet js
-Esri leaflet js plugin
-
